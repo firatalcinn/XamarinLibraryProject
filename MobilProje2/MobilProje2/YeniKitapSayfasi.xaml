@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilProje2.YeniKitapSayfasi">
+    <ContentPage.Content>
+        
+        
+        <StackLayout BackgroundColor="SkyBlue"  Spacing="20">
+
+
+            <Image Source="http://kutuphane.omu.edu.tr/sites/kutuphane.omu.edu.tr/files/images/kutuphane.jpg"
+               Aspect="Fill"/>
+
+            <Label Text="KÜTÜPHANE KİTAP KAYIT"
+               FontAttributes="Bold"
+               FontSize="25"
+               TextColor="Black"/>
+
+            <Entry Placeholder="Kitap Adı"
+               x:Name="isimEntry"
+               BackgroundColor="Wheat"/>
+
+            <Entry Placeholder="Yazar Adı"
+               x:Name="yazarEntry"
+               BackgroundColor="wheat"/>
+
+            <Button Text="Kaydet"
+                Clicked="Button_Clicked"
+                BackgroundColor="Green"/>
+
+
+
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

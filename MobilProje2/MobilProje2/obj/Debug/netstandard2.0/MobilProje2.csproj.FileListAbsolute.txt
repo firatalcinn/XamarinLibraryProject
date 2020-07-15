@@ -1,0 +1,13 @@
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\bin\Debug\netstandard2.0\MobilProje2.deps.json
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\bin\Debug\netstandard2.0\MobilProje2.dll
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\MobilProje2.csprojAssemblyReference.cache
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\YeniKitapSayfasi.xaml.g.cs
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\MobilProje2.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\MobilProje2.AssemblyInfoInputs.cache
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\MobilProje2.AssemblyInfo.cs
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\bin\Debug\netstandard2.0\MobilProje2.pdb
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\MobilProje2.dll
+C:\Users\firatalcin\source\repos\MobilProje2\MobilProje2\MobilProje2\obj\Debug\netstandard2.0\MobilProje2.pdb

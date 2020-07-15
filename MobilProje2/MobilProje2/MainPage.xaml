@@ -1,0 +1,43 @@
+﻿ <?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MobilProje2"
+             x:Class="MobilProje2.MainPage">
+
+    <ContentPage.ToolbarItems>
+
+        <ToolbarItem Text="Ekle"
+                     Activated="ToolbarItem_Activated"/>
+
+        <ToolbarItem Text="Sil"
+                     Activated="ToolbarItem_Activated_1"/>
+
+
+    </ContentPage.ToolbarItems>
+
+
+
+
+    <StackLayout VerticalOptions="FillAndExpand"
+               HorizontalOptions="FillAndExpand">
+
+        <Image Source="https://www.enka.k12.tr/istanbul/wp-content/uploads/2017/02/Library_Middle002.jpg"
+               Aspect="Fill" />
+
+        <ListView  x:Name="kitapListesi" BackgroundColor="Aquamarine">
+
+            <ListView.ItemTemplate>
+
+                <DataTemplate>
+                    <TextCell Text="{Binding İsim}"
+                          Detail="{Binding Yazar}"/>
+                </DataTemplate>
+
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+
+    </StackLayout>
+
+</ContentPage>
